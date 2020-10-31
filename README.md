@@ -1,12 +1,19 @@
 # SOP
 <!DOCTYPE html>
 <html>
+ 
 <head>
-<p color="blue" dir="rtl" align="right"> انگیزه نامه </p>
- <br>
+<p dir="rtl" align="right"> انگیزه نامه </p>
+<br>
 </head>
 
-<body>
+<style>
+body {
+	color: red;
+}
+</style>
+
+ 
 </body>
 </html>                                                         
                                          
