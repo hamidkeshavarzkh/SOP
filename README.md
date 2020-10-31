@@ -2,8 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
- انگیزه نامه
+dir="rtl" align="right"> انگیزه نامه
+ <br>
 </head>
+
 <body>
 </body>
 </html>                                                         
