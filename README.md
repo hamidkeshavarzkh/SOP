@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<p dir="rtl" align="right"> انگیزه نامه </p>
+<p color="blue" dir="rtl" align="right"> انگیزه نامه </p>
  <br>
 </head>
 
