@@ -5,8 +5,7 @@
  
 </head>
 <body>
- <p> <<انگیزه نامه>> </p>
- <a href="#">https://github.com/hamidkeshavarzkh/SOP.git</a>
+<p> <<انگیزه نامه>> </p>
 </body>
 </html>                                                         
                                          
