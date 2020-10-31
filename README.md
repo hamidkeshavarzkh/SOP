@@ -7,7 +7,7 @@
 <body>
  
                      <p> <<انگیزه نامه>> </p>
-                     <p style="direction:rtl;text-align:right"> <<انگیزه نامه>> </p>
+                     <p style="direction:rtl;text-align:right"> انگیزه نامه </p>
 </body>
 </html>                                                         
                                          
