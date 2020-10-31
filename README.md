@@ -5,7 +5,9 @@
  
 </head>
 <body>
+ 
                      <p> <<انگیزه نامه>> </p>
+                     <p style="direction:rtl;text-align:middle;"> <<انگیزه نامه>> </p>
 </body>
 </html>                                                         
                                          
